@@ -5,7 +5,7 @@ This page contains: <br>
 ## Links:
 * [The inverters(this page)](https://github.com/Flanker-E/Electronic_Control_Group)<br>
 * [data analysis tool](https://github.com/Flanker-E/Data_Analysis_Tool)<br>
-* [error handling strategy]()<br>
+* [error handling strategy](https://github.com/Flanker-E/Error_Handling)<br>
 * [The xls_to_C code generating tool](https://github.com/Flanker-E/CAN_xls2C)<br>
 * [The DC high voltage measuring module](https://github.com/Flanker-E/Voltage_meter/tree/main)<br>
 ## Photos of mine
