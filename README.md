@@ -7,7 +7,7 @@ This page contains: <br>
 * [data analysis tool](https://github.com/Flanker-E/Data_Analysis_Tool)<br>
 * [error handling strategy]()<br>
 * [The xls_to_C code generating tool](https://github.com/Flanker-E/CAN_xls2C)<br>
-* [The DC high voltage measuring module]()<br>
+* [The DC high voltage measuring module](https://github.com/Flanker-E/Voltage_meter/tree/main)<br>
 ## Photos of mine
 Working with the inverters.<br>
 ![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/inverters_3.png)<br>
@@ -17,3 +17,5 @@ After the DRe19 Rollout.<br>
 ![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/DIAN_1.png)<br>
 After the Formula Student Electric China(FSEC) 2019.<br>
 ![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/DIAN_2.png)<br>
+Participated in the electric design lecture given by Porsche engineer.<br>
+![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/DIAN_3.png)<br>
